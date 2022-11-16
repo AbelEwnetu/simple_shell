@@ -1,4 +1,4 @@
-#include "main.h"
+a#include "main.h"
 
 /**
  * get_help - function that retrieves help messages according builtin
