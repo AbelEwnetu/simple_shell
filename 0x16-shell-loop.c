@@ -1,5 +1,5 @@
-j#include "main.h"
-
+#include "main.h"
+k
 /**
  * without_comment - deletes comments from the input
  *
