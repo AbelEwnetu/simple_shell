@@ -1,4 +1,4 @@
-t#include "main.h"
+#include "main.h"
 
 /**
  * add_rvar_node - adds a variable at the end
